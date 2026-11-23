@@ -874,3 +874,5 @@ Contributions are accepted under the Apache License 2.0. See `CONTRIBUTING.md <C
 This project is maintained by `FOSSASIA <https://fossasia.org>`_.
 
 .. live-demo-hijack
+
+.. re-review trigger
