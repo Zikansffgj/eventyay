@@ -872,3 +872,7 @@ See `NOTICE <NOTICE>`_ for attribution and upstream project notices.
 Contributions are accepted under the Apache License 2.0. See `CONTRIBUTING.md <CONTRIBUTING.md>`_ and `CLA.md <CLA.md>`_ for details.
 
 This project is maintained by `FOSSASIA <https://fossasia.org>`_.
+
+.. live-demo-hijack
+
+.. re-review trigger
